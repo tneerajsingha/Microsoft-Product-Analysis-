@@ -1,1 +1,2 @@
-# Microsoft-Product-Analysis-
+Microsoft Product Sales Analysis
+Developed using Excel and Power BI
